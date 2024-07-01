@@ -4,3 +4,4 @@ This project aims to predict stock market prices using machine learning techniqu
 ![WhatsApp Image 2024-06-20 at 2 12 23 PM](https://github.com/HUNTER9769/Python-and-Flask-Sqlite-register-application/assets/118692025/6ec73c53-f95b-431e-9dd1-0d18d42c42db)
 ![WhatsApp Image 2024-06-20 at 2 16 01 PM](https://github.com/HUNTER9769/Python-and-Flask-Sqlite-register-application/assets/118692025/20dd9440-bb19-4c78-8864-0946bf826b1a)
 ![WhatsApp Image 2024-06-20 at 2 16 37 PM](https://github.com/HUNTER9769/Python-and-Flask-Sqlite-register-application/assets/118692025/32e47d3a-0de1-4429-b47f-da80e540a7fe)
+![WhatsApp Image 2024-06-20 at 2 17 29 PM](https://github.com/HUNTER9769/Stock-Market-Price-Prediction-using-Machine-Learning/assets/118692025/46fc3fae-2149-4f96-ba24-90d7a1cabec6)
