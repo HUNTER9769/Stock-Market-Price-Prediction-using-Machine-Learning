@@ -16,7 +16,7 @@ def create_app():
     with server.app_context():
         df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminder2007.csv')
         df.to_sql('gapminder2007', con=db.engine, if_exists='replace')
-        df1 = pd.read_csv('../app-multipage/user.csv')
+        df1 = pd.read_csv('../app_new/user.csv')
         df1.to_sql('user', con=db.engine, if_exists='append')
         # df1.to_sql('user', con=db.engine)
 

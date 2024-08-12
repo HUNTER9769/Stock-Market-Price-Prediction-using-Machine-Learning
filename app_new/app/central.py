@@ -698,8 +698,8 @@ def create_dashapp(server):
 
 
             return fig , my_table, period, mean_price, median_price, std_dev_price, min_price, max_price, summary_stats, metric_fig
-        fig, mape, r2 = main(company, '2021-01-01', '2024-06-20', pd.Timestamp('2024-06-20'))
-        fig2, my_table, period, mean_price, median_price, std_dev_price, min_price, max_price, summary_stats, metric_fig = main2(company, '2021-01-01', '2024-06-20')
+        fig, mape, r2 = main(company, '2021-01-01', '2024-08-12', pd.Timestamp('2024-08-12'))
+        fig2, my_table, period, mean_price, median_price, std_dev_price, min_price, max_price, summary_stats, metric_fig = main2(company, '2021-01-01', '2024-08-12')
         # ctx = callback_context.triggered[0]
         # route_variable = ctx['props']['href'].split('/')[-1]
         return fig, fig2, html.Div([
